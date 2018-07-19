@@ -1,3 +1,4 @@
+# INSTALL INSTRUCTIONS:
 # pip install spacy
 # pip install textacy
 # spacy download en_core_web_sm
